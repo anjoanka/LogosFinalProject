@@ -1,0 +1,16 @@
+.loginForm{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: #78bb7b;
+    font-weight: bold;
+}
+
+.button{
+    background: #78bb7b;
+}
+
+.button:hover{
+    background: #78bb7b;
+    font-weight: bold;
+}
